@@ -106,7 +106,7 @@ ChromaDB: 名字和路徑可任意給，但記得這邊讀取文檔的工作流�
 
 #### 3.3.2. LangFlow RAG 主工作流建立
 
-![](20241218175424.png)
+![](https://raw.githubusercontent.com/Mark850409/20241218_LangFlowRAG/refs/heads/master/image/20241218175424.png)
 
 `LMStudio` 區塊請添加以下提示詞
 
