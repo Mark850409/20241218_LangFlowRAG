@@ -25,7 +25,7 @@ https://medium.com/@NeroHin/%E4%BD%BF%E7%94%A8-langflow-ollama-%E5%BF%AB%E9%80%9
 
 ### 3.1. 使用docker安裝langflow
 
- > [!note] 小提示 
+ > [!note]
  > `LANGFLOW_CONFIG_DIR`、`langflow-postgres`路徑請記得調整為自己的windows目錄 
 
 
